@@ -1,2 +1,2 @@
 # education_hub
-College and schools course work 
+Program outlines for O levels and A level studies 
